@@ -1,5 +1,5 @@
 local player = game.Players.LocalPlayer
-local spamtalklevel = {"whos gvvy?", "LGBTQ sucks!", "gvvy people", "XLMAO", "lol, funny", "what do yall think of LGBTQ", "i don't support."}
+local spamtalklevel = {"whos gvvy?", "LGBTQ Is Gvxy", "gvvy people", "XLMAO", "lol, funny", "what do yall think of LGBTQ", "i don't support."}
 local mouse = player:GetMouse()
 
 function talk(key)
